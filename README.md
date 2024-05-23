@@ -5,5 +5,5 @@
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento de meus projetos desenvolvimento
 
- 
- ![](https://media1.tenor.com/m/7FYpoXfpAIUAAAAd/snowball-bunny.gif)
+![image](https://github.com/anagabi21/Anagabi21/assets/170519614/5ff6f54a-4f03-48cb-8a73-aeaaa92671fe)
+
